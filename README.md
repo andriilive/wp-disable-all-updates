@@ -1,4 +1,4 @@
-# Disable all updates Plugin
+# Disable all updates Plugin (With Composer install & Bedrock support)
 
 `wp-disable-all-updates` plugin completely and for real disables all WordPress updates
 
@@ -18,7 +18,7 @@
 
 ### ZIP Upload
 
-1. Download `wp-disable-all-updates.zip` from [here](https://github.com/andriilive/wp-disable-generated-image-sizes/archive/refs/tags/0.1.0.zip)
+1. Download `wp-disable-all-updates.zip` from [here](https://github.com/andriilive/wp-disable-all-updates/archive/refs/tags/0.1.0.zip)
 2. Login to Wordpress Admin Dashboard
 2. Navigate to `Plugins` > `Add new`
 3. Press `Upload Plugin` and chose `wp-disable-all-updates.zip`

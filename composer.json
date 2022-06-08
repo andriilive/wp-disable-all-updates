@@ -1,6 +1,6 @@
 {
   "name": "andriilive/wp-disable-all-updates",
-  "description": "",
+  "description": "isable all updates Plugin (With Composer install & Bedrock support)",
   "keywords": ["wordpress", "plugin"],
   "homepage": "https://github.com/andriilive/wp-disable-all-updates",
   "authors": [
