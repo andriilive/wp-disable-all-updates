@@ -1,0 +1,16 @@
+{
+  "name": "andriilive/wp-disable-all-updates",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/andriilive/wp-disable-all-updates",
+  "authors": [
+    {
+      "name": "DigitalAndy",
+      "homepage": "https://github.com/andriilive"
+    }
+  ],
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
